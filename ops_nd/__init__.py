@@ -1,0 +1,3 @@
+import log
+
+#log.setup()
